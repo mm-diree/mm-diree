@@ -25,6 +25,6 @@ Data analyst
 
 Here are some ideas to get you started:
 
-🌱 I’m currently learning
-💬 Ask me about
-⚡ Fun fact 
+* 🌱 I’m currently learning
+* 💬 Ask me about
+* ⚡ Fun fact 
